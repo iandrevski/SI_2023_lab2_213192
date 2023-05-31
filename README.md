@@ -3,7 +3,7 @@ Ivan Andrevski 213192
 
 # CFG Dijagram
 
-![CFG](slika.png)
+![image](slika.png)
 
 # Ciklomatska kompleksnost
 
